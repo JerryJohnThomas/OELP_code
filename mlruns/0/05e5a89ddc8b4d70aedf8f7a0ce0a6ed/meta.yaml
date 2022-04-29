@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/05e5a89ddc8b4d70aedf8f7a0ce0a6ed/artifacts
+end_time: 1651175313340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 05e5a89ddc8b4d70aedf8f7a0ce0a6ed
+run_uuid: 05e5a89ddc8b4d70aedf8f7a0ce0a6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1651175052048
+status: 4
+tags: []
+user_id: Jerry John Thomas
